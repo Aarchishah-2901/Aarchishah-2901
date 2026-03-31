@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working as Full Stack Developer in India.
 
-- 🤹 Best skill in **JavaScript, TypeScript, React-JS, Next-JS, Node-JS, Express-JS, MongoDB**
+- 🤹 Best skill in **JavaScript, TypeScript, React-JS, Next-JS, Angular, Node-JS, Express-JS, MongoDB**
 
 - ⚡ Goal **Everyone has a dream in his life, my dream is to make my bucket list empty, I want to learn new things every day, Improve my skills in the best way to help all people.**
 
